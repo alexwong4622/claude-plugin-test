@@ -1,0 +1,7 @@
+{
+  "name": "alex-plugin-test",
+  "owner": { "name": "Alex" },
+  "plugins": [
+    { "name": "probe", "source": "./plugins/probe", "description": "Test plugin" }
+  ]
+}
